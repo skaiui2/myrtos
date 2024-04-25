@@ -1,0 +1,1084 @@
+﻿  list.c
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(16,25): error C2061: 语法错误: 标识符“StackType_t”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(16,25): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,11): error C2065: “uint32_t”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,11): error C2146: 语法错误: 缺少“;”(在标识符“ulNewBASEPRI”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,24): error C2065: “ulNewBASEPRI”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,62): error C2065: “configMAX_SYSCALL_INTERRUPT_PRIORITY”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(28,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2065: “ulNewBASEPRI”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(35,17): warning C4098: “vPortRaiseBASEPRI”:“void”函数返回值
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2146: 语法错误: 缺少“)”(在标识符“ulBASEPRI”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2061: 语法错误: 标识符“ulBASEPRI”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,40): error C2059: 语法错误:“)”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(44,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(45,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(63,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,34): error C2061: 语法错误: 标识符“ulPortRaiseBASEPRI”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,34): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,57): error C2059: 语法错误:“<parameter-list>”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(75,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2146: 语法错误: 缺少“)”(在标识符“ulBASEPRI”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2061: 语法错误: 标识符“ulBASEPRI”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,64): error C2059: 语法错误:“)”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(88,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(89,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2061: 语法错误: 标识符“Task1Stack”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,24): error C2059: 语法错误:“[”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2061: 语法错误: 标识符“Task2Stack”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,24): error C2059: 语法错误:“[”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2061: 语法错误: 标识符“pxReadyTasksLists”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,26): error C2059: 语法错误:“[”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(51,1): warning C4005: “taskENTER_CRITICAL_FROM_ISR”: 宏重定义
+  (编译源文件“list.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(46,1):
+  参见“taskENTER_CRITICAL_FROM_ISR”的前一个定义
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2059: 语法错误:“*”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2061: 语法错误: 标识符“xStateListItem”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(13,13): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(15,1): error C2059: 语法错误:“}”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2061: 语法错误: 标识符“TCB_t”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2059: 语法错误:“;”
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(18,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“list.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(20,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“list.c”)
+  
+  port.c
+C:\Users\el\Documents\kl\myRTOS\port.h(8,12): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(8,47): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(8,47): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(9,17): error C2146: 语法错误: 缺少“;”(在标识符“pxCode”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(10,6): error C2059: 语法错误:“类型”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(10,20): error C2059: 语法错误:“)”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2059: 语法错误:“*”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2061: 语法错误: 标识符“xStateListItem”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2059: 语法错误:“;”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(13,13): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(15,1): error C2059: 语法错误:“}”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2061: 语法错误: 标识符“TCB_t”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2059: 语法错误:“;”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(18,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(20,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(34,2): error C2061: 语法错误: 标识符“UBaseType_t”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(37,1): error C2059: 语法错误:“}”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(28,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(35,17): warning C4098: “vPortRaiseBASEPRI”:“void”函数返回值
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(45,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(48,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(59,30): error C2375: “vPortRaiseBASEPRI”: 重定义；不同的链接
+  (编译源文件“port.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(24,6):
+  参见“vPortRaiseBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(63,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(75,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(79,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,30): error C2375: “vPortSetBASEPRI”: 重定义；不同的链接
+  (编译源文件“port.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,6):
+  参见“vPortSetBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(89,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(92,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(27,16): error C2373: “TaskFunction_t”: 重定义；不同的类型修饰符
+  (编译源文件“port.c”)
+  C:\Users\el\Documents\kl\myRTOS\port.h(9,2):
+  参见“TaskFunction_t”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2061: 语法错误: 标识符“pxReadyTasksLists”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2059: 语法错误:“;”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,26): error C2059: 语法错误:“[”
+  (编译源文件“port.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(51,1): warning C4005: “taskENTER_CRITICAL_FROM_ISR”: 宏重定义
+  (编译源文件“port.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(46,1):
+  参见“taskENTER_CRITICAL_FROM_ISR”的前一个定义
+  
+C:\Users\el\Documents\kl\myRTOS\projdefs.h(12,16): error C2373: “TaskFunction_t”: 重定义；不同的类型修饰符
+  (编译源文件“port.c”)
+  C:\Users\el\Documents\kl\myRTOS\port.h(9,2):
+  参见“TaskFunction_t”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\port.c(33,17): error C2065: “Task1TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(33,7): warning C4552: ”*“: 未使用表达式结果
+C:\Users\el\Documents\kl\myRTOS\port.c(34,26): error C2065: “Task1TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(35,6): warning C4013: “xPortStartScheduler”未定义；假设外部返回 int
+C:\Users\el\Documents\kl\myRTOS\port.c(80,1): warning C4142: "xPortStartScheduler": 类型的良性重定义
+C:\Users\el\Documents\kl\myRTOS\port.c(82,2): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“volatile uint32_t *”
+C:\Users\el\Documents\kl\myRTOS\port.c(83,2): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“volatile uint32_t *”
+C:\Users\el\Documents\kl\myRTOS\port.c(84,2): warning C4013: “prvStartFirstTask”未定义；假设外部返回 int
+C:\Users\el\Documents\kl\myRTOS\port.c(100,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\el\Documents\kl\myRTOS\port.c(103,3): error C2065: “PRESERVE8”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(103,3): error C2146: 语法错误: 缺少“;”(在标识符“ldr”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(103,7): error C2065: “ldr”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(103,7): error C2146: 语法错误: 缺少“;”(在标识符“r0”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(103,9): error C2065: “r0”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(103,11): error C2059: 语法错误:“=”
+C:\Users\el\Documents\kl\myRTOS\port.c(120,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\el\Documents\kl\myRTOS\port.c(124,4): error C2065: “PRESERVE8”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(124,4): error C2146: 语法错误: 缺少“;”(在标识符“ldr”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(124,8): error C2065: “ldr”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(124,8): error C2146: 语法错误: 缺少“;”(在标识符“r3”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(124,10): error C2065: “r3”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(124,12): error C2059: 语法错误:“=”
+C:\Users\el\Documents\kl\myRTOS\port.c(130,12): error C2014: 预处理器命令必须作为第一个非空白空间启动
+C:\Users\el\Documents\kl\myRTOS\port.c(132,13): error C2014: 预处理器命令必须作为第一个非空白空间启动
+C:\Users\el\Documents\kl\myRTOS\port.c(146,48): warning C4311: “类型强制转换”: 从“void *(__cdecl *)(void)”到“StackType_t”的指针截断
+C:\Users\el\Documents\kl\myRTOS\port.c(148,44): error C2065: “pvParameters”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(150,21): warning C4098: “prvStartFirst”:“void”函数返回值
+C:\Users\el\Documents\kl\myRTOS\port.c(195,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(196,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\el\Documents\kl\myRTOS\port.c(198,10): error C2373: “pxCurrentTCB”: 重定义；不同的类型修饰符
+  C:\Users\el\Documents\kl\myRTOS\rtos.h(18,17):
+  参见“pxCurrentTCB”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\port.c(201,4): error C2065: “PRESERVE8”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(201,4): error C2146: 语法错误: 缺少“;”(在标识符“mrs”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(201,8): error C2065: “mrs”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(201,8): error C2146: 语法错误: 缺少“;”(在标识符“r0”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(201,10): error C2065: “r0”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(202,4): error C2065: “psp”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(202,4): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(203,4): error C2065: “isb”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(203,4): error C2146: 语法错误: 缺少“;”(在标识符“ldr”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(203,8): error C2065: “ldr”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(203,8): error C2146: 语法错误: 缺少“;”(在标识符“r3”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(203,10): error C2065: “r3”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\port.c(203,12): error C2059: 语法错误:“=”
+C:\Users\el\Documents\kl\myRTOS\port.c(209,12): error C2014: 预处理器命令必须作为第一个非空白空间启动
+C:\Users\el\Documents\kl\myRTOS\port.c(214,12): error C2014: 预处理器命令必须作为第一个非空白空间启动
+C:\Users\el\Documents\kl\myRTOS\port.c(237,3): warning C4013: “configASSERT”未定义；假设外部返回 int
+C:\Users\el\Documents\kl\myRTOS\port.c(237,17): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“volatile uint32_t *”
+C:\Users\el\Documents\kl\myRTOS\port.c(242,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\el\Documents\kl\myRTOS\port.c(251,1): error C1004: 发现意外的文件尾
+  portmarco.c
+C:\Users\el\Documents\kl\myRTOS\list.h(20,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(34,2): error C2061: 语法错误: 标识符“UBaseType_t”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(37,1): error C2059: 语法错误:“}”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2061: 语法错误: 标识符“Task1Stack”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2059: 语法错误:“;”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,24): error C2059: 语法错误:“[”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2061: 语法错误: 标识符“Task2Stack”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2059: 语法错误:“;”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,24): error C2059: 语法错误:“[”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2061: 语法错误: 标识符“pxReadyTasksLists”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2059: 语法错误:“;”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,26): error C2059: 语法错误:“[”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(51,1): warning C4005: “taskENTER_CRITICAL_FROM_ISR”: 宏重定义
+  (编译源文件“portmarco.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(46,1):
+  参见“taskENTER_CRITICAL_FROM_ISR”的前一个定义
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2059: 语法错误:“*”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(13,13): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(15,1): error C2059: 语法错误:“}”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2061: 语法错误: 标识符“TCB_t”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2059: 语法错误:“;”
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(18,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(28,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(35,17): warning C4098: “vPortRaiseBASEPRI”:“void”函数返回值
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(45,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(48,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(59,30): error C2375: “vPortRaiseBASEPRI”: 重定义；不同的链接
+  (编译源文件“portmarco.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(24,6):
+  参见“vPortRaiseBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(63,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(75,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(79,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,30): error C2375: “vPortSetBASEPRI”: 重定义；不同的链接
+  (编译源文件“portmarco.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,6):
+  参见“vPortSetBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(89,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“portmarco.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(92,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“portmarco.c”)
+  
+  projdefs.c
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(16,25): error C2061: 语法错误: 标识符“StackType_t”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(16,25): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,11): error C2065: “uint32_t”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,11): error C2146: 语法错误: 缺少“;”(在标识符“ulNewBASEPRI”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,24): error C2065: “ulNewBASEPRI”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(27,62): error C2065: “configMAX_SYSCALL_INTERRUPT_PRIORITY”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(28,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2065: “ulNewBASEPRI”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(35,17): warning C4098: “vPortRaiseBASEPRI”:“void”函数返回值
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2146: 语法错误: 缺少“)”(在标识符“ulBASEPRI”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2061: 语法错误: 标识符“ulBASEPRI”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,31): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,40): error C2059: 语法错误:“)”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(44,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(45,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(63,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,34): error C2061: 语法错误: 标识符“ulPortRaiseBASEPRI”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,34): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(72,57): error C2059: 语法错误:“<parameter-list>”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(75,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2146: 语法错误: 缺少“)”(在标识符“ulBASEPRI”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2061: 语法错误: 标识符“ulBASEPRI”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,55): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,64): error C2059: 语法错误:“)”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(88,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(89,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2061: 语法错误: 标识符“Task1Stack”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,13): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(22,24): error C2059: 语法错误:“[”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2061: 语法错误: 标识符“Task2Stack”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,13): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(23,24): error C2059: 语法错误:“[”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2061: 语法错误: 标识符“pxReadyTasksLists”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,26): error C2059: 语法错误:“[”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(51,1): warning C4005: “taskENTER_CRITICAL_FROM_ISR”: 宏重定义
+  (编译源文件“projdefs.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(46,1):
+  参见“taskENTER_CRITICAL_FROM_ISR”的前一个定义
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2059: 语法错误:“*”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2061: 语法错误: 标识符“xStateListItem”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(13,13): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(15,1): error C2059: 语法错误:“}”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2061: 语法错误: 标识符“TCB_t”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2059: 语法错误:“;”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(18,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(20,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(8,12): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(8,47): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(8,47): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(9,2): error C2373: “TaskFunction_t”: 重定义；不同的类型修饰符
+  (编译源文件“projdefs.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(27,16):
+  参见“TaskFunction_t”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(9,17): error C2146: 语法错误: 缺少“;”(在标识符“pxCode”的前面)
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(10,6): error C2059: 语法错误:“类型”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\port.h(10,20): error C2059: 语法错误:“)”
+  (编译源文件“projdefs.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\projdefs.c(5,1): error C1004: 发现意外的文件尾
+  rtos.c
+  task.c
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(11,22): error C2059: 语法错误:“*”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2061: 语法错误: 标识符“xStateListItem”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(12,13): error C2059: 语法错误:“;”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(13,13): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(15,1): error C2059: 语法错误:“}”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2061: 语法错误: 标识符“TCB_t”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(16,16): error C2059: 语法错误:“;”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\rtos.h(18,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(20,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(34,2): error C2061: 语法错误: 标识符“UBaseType_t”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\list.h(37,1): error C2059: 语法错误:“}”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(28,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(30,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(31,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(32,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(33,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(34,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(35,17): warning C4098: “vPortRaiseBASEPRI”:“void”函数返回值
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(45,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(47,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(48,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(59,30): error C2375: “vPortRaiseBASEPRI”: 重定义；不同的链接
+  (编译源文件“task.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(24,6):
+  参见“vPortRaiseBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(63,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(65,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(67,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(68,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(75,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2065: “mrs”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(77,7): error C2146: 语法错误: 缺少“;”(在标识符“ulReturn”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,3): error C2146: 语法错误: 缺少“;”(在标识符“msr”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(78,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(79,3): error C2146: 语法错误: 缺少“;”(在标识符“dsb”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2065: “dsb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(80,3): error C2146: 语法错误: 缺少“;”(在标识符“isb”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2065: “isb”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(81,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(87,30): error C2375: “vPortSetBASEPRI”: 重定义；不同的链接
+  (编译源文件“task.c”)
+  C:\Users\el\Documents\kl\myRTOS\portmarco.h(43,6):
+  参见“vPortSetBASEPRI”的声明
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(89,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2065: “msr”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,7): error C2146: 语法错误: 缺少“;”(在标识符“basepri”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(91,14): error C2065: “basepri”: 未声明的标识符
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\portmarco.h(92,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2061: 语法错误: 标识符“pxReadyTasksLists”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,8): error C2059: 语法错误:“;”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(29,26): error C2059: 语法错误:“[”
+  (编译源文件“task.c”)
+  
+C:\Users\el\Documents\kl\myRTOS\task.h(51,1): warning C4005: “taskENTER_CRITICAL_FROM_ISR”: 宏重定义
+  (编译源文件“task.c”)
+  C:\Users\el\Documents\kl\myRTOS\task.h(46,1):
+  参见“taskENTER_CRITICAL_FROM_ISR”的前一个定义
+  
+C:\Users\el\Documents\kl\myRTOS\task.c(39,7): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\el\Documents\kl\myRTOS\task.c(39,7): error C2081: “TCB_t”: 形参表中的名称非法
+C:\Users\el\Documents\kl\myRTOS\task.c(39,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\el\Documents\kl\myRTOS\task.c(39,17): error C2059: 语法错误:“)”
+C:\Users\el\Documents\kl\myRTOS\task.c(40,1): error C2054: 在“pxNewTCB”之后应输入“(”
+C:\Users\el\Documents\kl\myRTOS\task.c(66,8): error C2146: 语法错误: 缺少“;”(在标识符“Task1TCB”的前面)
+C:\Users\el\Documents\kl\myRTOS\task.c(66,16): error C2065: “Task1TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\task.c(67,8): error C2146: 语法错误: 缺少“;”(在标识符“Task2TCB”的前面)
+C:\Users\el\Documents\kl\myRTOS\task.c(67,16): error C2065: “Task2TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\task.c(68,31): error C2065: “Task1TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\task.c(70,27): error C2065: “Task2TCB”: 未声明的标识符
+C:\Users\el\Documents\kl\myRTOS\task.c(74,27): error C2065: “Task1TCB”: 未声明的标识符
+  正在生成代码...
